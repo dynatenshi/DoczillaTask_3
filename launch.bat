@@ -1,0 +1,1 @@
+java -jar ./target/weather-service-1.0.jar
